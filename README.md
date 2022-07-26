@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matias
 - 👀 I’m interested in devops culture
-- 🌱 I’m currently learning aws, jenkins, terraform... 
+- 🌱 I’m currently learning aws, golang,  
 - 📫 How to reach me www.linkedin.com/in/matiasgarro
 
 <!---
